@@ -284,3 +284,21 @@
   font-weight: 400;
   color: #b7b7b7;
 }
+
+.contacts {
+  padding: 100px 0;
+  background-color: #171616;
+}
+
+.contacts button {
+  padding: 12px 75px 12px 75px;
+  background: #db2512;
+  color: white;
+  cursor: pointer;
+}
+
+.contacts__title {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
