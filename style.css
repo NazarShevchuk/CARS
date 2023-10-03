@@ -379,3 +379,31 @@
   transform: translateY(-15px);
   font-size: 12px;
 }
+
+.footer__wrapper {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copyright {
+  letter-spacing: 0.15em;
+}
+
+.footer__soc {
+  display: flex;
+}
+
+.footer__soc-link {
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.footersoc-link:last-child {
+  margin-right: 0;
+}
+
+.footer__soc-link img {
+  height: 25px;
+}
